@@ -1,4 +1,4 @@
 
 
 print('Hello World')
-print('Samir is hot')
+print('Samir is cool')
